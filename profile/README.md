@@ -1,10 +1,10 @@
-# DEKATECH INNOVATION 🚀
+# DECATECH INNOVATION 🚀
 
-Selamat datang di repositori resmi **DEKATECH INNOVATION**! Kami adalah perusahaan **IT Consulting** yang fokus pada solusi inovatif untuk membantu bisnis berkembang dengan teknologi terkini. 💡
+Selamat datang di repositori resmi **DECATECH INNOVATION**! Kami adalah perusahaan **IT Consulting** yang fokus pada solusi inovatif untuk membantu bisnis berkembang dengan teknologi terkini. 💡
 
 ## 🌟 Tentang Kami
 
-[DEKATECH INNOVATION](https://decatech-innovation.vercel.app/) adalah mitra teknologi Anda dalam mengembangkan solusi digital yang efisien, scalable, dan inovatif. Kami menyediakan layanan:
+[DECATECH INNOVATION](https://decatech-innovation.vercel.app/) adalah mitra teknologi Anda dalam mengembangkan solusi digital yang efisien, scalable, dan inovatif. Kami menyediakan layanan:
 
 - ✅ **Software Development** - Pengembangan aplikasi web & mobile.
 - ✅ **IT Consulting** - Solusi strategis berbasis teknologi.
@@ -27,8 +27,8 @@ Selamat datang di repositori resmi **DEKATECH INNOVATION**! Kami adalah perusaha
 
 ## 🔗 Hubungi Kami
 
-- 🌍 Kunjungi Website: [DEKATECH INNOVATION](https://decatech-innovation.vercel.app/)
-- 📧 Email: **contact@dekatech-innovation.com**
-- 📱 WhatsApp: **+62 812-3456-7890**
+- 🌍 Kunjungi Website: [DECATECH INNOVATION](https://decatech-innovation.vercel.app/)
+- 📧 Email: **helpdesk@decatech-hub.my.id**
+- 📱 WhatsApp: **+6282299933625**
 
 Mari berinovasi bersama dan wujudkan solusi teknologi terbaik untuk bisnis Anda! 💻🚀
